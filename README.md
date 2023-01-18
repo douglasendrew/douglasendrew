@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá,+tudo+bem?)](https://git.io/typing-svg)
 
+## 💻🚀 Tecnologias e Ferramentas
 <div style="display: inline_block">
   <img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -11,3 +12,10 @@
   <img align="center" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
   
 </div>
+
+
+<br>
+<br>
+
+## 🌐 Rede Social
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/douglasendrew/)
