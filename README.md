@@ -11,6 +11,8 @@
   <img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Docker-0162CC?style=for-the-badge&logo=docker&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/JQuery-0162CC?style=for-the-badge&logo=jquery&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/Bootstrap-7B11F3?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
 
 
