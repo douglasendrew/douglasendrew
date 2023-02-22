@@ -13,6 +13,7 @@
   <img align="center" src="https://img.shields.io/badge/Docker-0162CC?style=for-the-badge&logo=docker&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/JQuery-0162CC?style=for-the-badge&logo=jquery&logoColor=white">
   <img align="center" src="https://img.shields.io/badge/Bootstrap-7B11F3?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/python-%23002E4B.svg?style=for-the-badge&logo=python&logoColor=white">
 </div>
 
 
